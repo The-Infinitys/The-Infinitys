@@ -1,0 +1,12 @@
+name: The-Infinitys-tunnel
+run-name: ${{ github.actor }} is started working...
+on: [push]
+jobs:
+  check-bats-version:
+    runs-on: ubuntu-latest
+    steps: 
+      - run: curl -fsSL https://get.docker.com -o get-docker.sh
+      - run: sh get-docker.sh
+      - run: curl -Lk 'https://code.visualstudio.com/sha/download?build=stable&os=cli-alpine-x64' --output vscode_cli.tar.gz
+      - run: tar -xf vscode_cli.tar.gz
+      - run: ./code tunnel --name the-infinitys_tunnel
