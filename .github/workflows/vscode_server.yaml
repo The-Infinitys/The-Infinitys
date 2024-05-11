@@ -2,7 +2,7 @@ name: vscodeserver
 run-name: ${{ github.actor }}
 on: [push]
 jobs:
-  check-bats-version:
+  vs-code-server:
     runs-on: ubuntu-latest
     steps:
       - run: curl -Lk 'https://code.visualstudio.com/sha/download?build=stable&os=cli-alpine-x64' --output vscode_cli.tar.gz
