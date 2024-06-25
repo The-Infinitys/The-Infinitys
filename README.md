@@ -1,4 +1,7 @@
 <h1>The Infinity's - Believe The Infinity Possibility!</h1>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=The-Infinitys&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <img src="https://the-infinitys.f5.si/image/The-Infinitys.webp" width="300px" />
 
 <h1>links</h1>
