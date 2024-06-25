@@ -1,8 +1,8 @@
-<h1>The Infinity's - Believe The Infinity Possibility!</h1>
+<h1><img src="https://the-infinitys.f5.si/image/The-Infinitys.webp" height="30px" />
+  The Infinity's - Believe The Infinity Possibility!
+</h1>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=The-Infinitys&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img src="https://the-infinitys.f5.si/image/The-Infinitys.webp" width="300px" />
+![trophy](https://github-profile-trophy.vercel.app/?username=The-Infinitys&theme=onedark)](https://github.com/The-Infinitys/github-profile-trophy)
 
 <h1>links</h1>
 <a href="https://x.com/Mugen_Infinitys/">X: The Infinity's(Mugen_Infinitys)</a>
