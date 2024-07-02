@@ -2,7 +2,7 @@
   The Infinity's - Believe The Infinity Possibility!
 </h1>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=The-Infinitys&theme=onedark)]()
+![trophy](https://github-profile-trophy.vercel.app/?username=The-Infinitys&theme=onedark)
 
 <h1>links</h1>
 <a href="https://x.com/Mugen_Infinitys/">X: The Infinity's(Mugen_Infinitys)</a>
