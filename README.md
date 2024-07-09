@@ -9,7 +9,7 @@
 
 <a href="https://scratch.mit.edu/users/The_Infinitys/">Scratch: The Infinity's(The_Infinitys)</a>
 
-<a href="https://the-infinitys.f5.si">The Infinity's Homepage</a>
+<a href="https://the-infinitys.f5.si">The Infinity's homepage</a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=The-Infinitys&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=The-Infinitys&theme=github_dark)
