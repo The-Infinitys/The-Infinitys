@@ -1,6 +1,10 @@
 <h1><img src="https://the-infinitys.f5.si/image/The-Infinitys.webp" height="30px" />
   The Infinity's - Believe The Infinity Possibility!
 </h1>
+The Infinity'sは、アマチュアWebフロントエンドエンジニアで有る。
+自分でサイトを運営したりしている。
+Scratchもやっている。
+ついでに言うとXもやっている。
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=The-Infinitys&theme=onedark)
 
