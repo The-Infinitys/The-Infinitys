@@ -9,7 +9,7 @@ Scratchもやっている。
 ![trophy](https://github-profile-trophy.vercel.app/?username=The-Infinitys&theme=onedark)
 
 <h1>links</h1>
-<a href="https://x.com/Mugen_Infinitys/">X: The Infinity's(Mugen_Infinitys)</a>
+<a href="https://x.com/The_Infinity_s/">X: The Infinity's(Mugen_Infinitys)</a>
 
 <a href="https://scratch.mit.edu/users/The_Infinitys/">Scratch: The Infinity's(The_Infinitys)</a>
 
