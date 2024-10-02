@@ -5,9 +5,15 @@
 ## introduce
 
 どうもみなさん！**The Infinity's**と申します！
+趣味はプログラミングと音楽です！
 何卒よろしくお願いします！
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=The-Infinitys&theme=onedark)
+
+## news
+
+Scratchのアカウントは現在凍結されています。
+凍結理由は拡張機能の作成及び使用です。
 
 ## links
 
