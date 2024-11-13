@@ -12,4 +12,9 @@ jobs:
       - run: tar -xf vscode_cli.tar.gz
       - run: rm ./vscode_cli.tar.gz
       - run: sudo apt update && sudo apt upgrade -y
+      - run: sudo apt install --fix-missing language-pack-ja
+      - run: sudo update-locale LANG=ja_JP.UTF8 && locale
+      - run: echo "Asia/Tokyo" | sudo tee /etc/timezone
+      - run: sudo dpkg-reconfigure --frontend noninteractive tzdata
+      - run: sudo apt install --fix-missing manpages-ja manpages-ja-dev
       - run: ./code tunnel --accept-server-license-terms --name the-inf_workspace
