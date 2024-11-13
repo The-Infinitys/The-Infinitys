@@ -11,4 +11,5 @@ jobs:
       - run: curl -Lk 'https://code.visualstudio.com/sha/download?build=stable&os=cli-alpine-x64' --output vscode_cli.tar.gz
       - run: tar -xf vscode_cli.tar.gz
       - run: rm ./vscode_cli.tar.gz
+      - run: sudo apt update && sudo apt upgrade -y
       - run: ./code tunnel --accept-server-license-terms --name the-inf_workspace
