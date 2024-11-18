@@ -13,8 +13,5 @@ jobs:
       - run: rm ./vscode_cli.tar.gz
       - run: sudo mv ./code /usr/local/bin/code-cli
       - run: sudo apt update && sudo apt upgrade -y
-      - run: sudo apt install --fix-missing language-pack-ja
-      - run: sudo update-locale LANG=ja_JP.UTF8 && locale
       - run: sudo timedatectl set-timezone Asia/Tokyo
-      - run: sudo apt install --fix-missing manpages-ja manpages-ja-dev
       - run: code-cli tunnel --accept-server-license-terms --name the-inf_workspace
