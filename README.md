@@ -4,11 +4,7 @@
 
 ## introduce
 
-Hello! I'm **The Infinity's**!
-Thank you for visit my GitHub Profile!
-
-![trophy](https://github-profile-trophy.vercel.app/?username=The-Infinitys&theme=onedark)
-
+Hello, Infinite World!
 
 ## links
 
